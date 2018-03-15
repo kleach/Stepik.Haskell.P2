@@ -2,10 +2,15 @@
 This is the work conspectus for [Stepik course](https://stepik.org/course/693) by Denis Moskvin.
 
 ## Content
-### [1. Applicative Functors]()
-### [2. Effects Management]()
-### [3. Monads and Effects]()
-### [4. Monad Transformers]()
+### 1. Applicative Functors
+[1.1. Definition of Applicative Functor](/module1/lesson1.md)
+[1.2. Instances of `Applicative` type class](/module1/lesson2.md)
+[1.3. Parsec the Applicative parser](/module1/lesson3.md)
+[1.4. DIY Applicative parser](/module1/lesson4.md)
+[1.5. Composition on the level of types](/module1/lesson5.md)
+### 2. Effects Management
+### 3. Monads and Effects
+### 4. Monad Transformers
 
 ## Legend
 Icon | Meaning
